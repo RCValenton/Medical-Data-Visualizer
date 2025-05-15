@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-# 1
+# 1 Import data
 df = None
 
 # 2
